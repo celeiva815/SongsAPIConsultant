@@ -1,0 +1,10 @@
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\obj\Debug\SongsAPIConsultant.csprojAssemblyReference.cache
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\obj\Debug\SongsAPIConsultant.csproj.CoreCompileInputs.cache
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\bin\Debug\SongsAPIConsultant.exe.config
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\bin\Debug\SongsAPIConsultant.exe
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\bin\Debug\SongsAPIConsultant.pdb
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\bin\Debug\RestSharp.dll
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\bin\Debug\RestSharp.xml
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\obj\Debug\SongsAPIConsultant.csproj.CopyComplete
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\obj\Debug\SongsAPIConsultant.exe
+c:\users\tito\documents\visual studio 2017\Projects\SongsAPIConsultant\SongsAPIConsultant\obj\Debug\SongsAPIConsultant.pdb
